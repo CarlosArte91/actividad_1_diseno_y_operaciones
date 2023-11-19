@@ -1,0 +1,122 @@
+[
+    {
+        "equipo": "Argentina",
+        "grupo": "A",
+        "partidosJugados": 4,
+        "partidosGanados": 3,
+        "partidosEmpatados": 1,
+        "partidosPerdidos": 0,
+        "golesAFavor": 8,
+        "golesEnContra": 2,
+        "diferenciaGoles": 6,
+        "puntos": 10
+    },
+    {
+        "equipo": "Brasil",
+        "grupo": "A",
+        "partidosJugados": 4,
+        "partidosGanados": 3,
+        "partidosEmpatados": 0,
+        "partidosPerdidos": 1,
+        "golesAFavor": 10,
+        "golesEnContra": 5,
+        "diferenciaGoles": 5,
+        "puntos": 9
+    },
+    {
+        "equipo": "Perú",
+        "grupo": "A",
+        "partidosJugados": 4,
+        "partidosGanados": 0,
+        "partidosEmpatados": 2,
+        "partidosPerdidos": 2,
+        "golesAFavor": 3,
+        "golesEnContra": 8,
+        "diferenciaGoles": -5,
+        "puntos": 2
+    },
+    {
+        "equipo": "Ecuador",
+        "grupo": "A",
+        "partidosJugados": 4,
+        "partidosGanados": 1,
+        "partidosEmpatados": 2,
+        "partidosPerdidos": 1,
+        "golesAFavor": 6,
+        "golesEnContra": 6,
+        "diferenciaGoles": 0,
+        "puntos": 5
+    },
+    {
+        "equipo": "Bolivia",
+        "grupo": "A",
+        "partidosJugados": 4,
+        "partidosGanados": 0,
+        "partidosEmpatados": 1,
+        "partidosPerdidos": 3,
+        "golesAFavor": 4,
+        "golesEnContra": 10,
+        "diferenciaGoles": -6,
+        "puntos": 1
+    },
+    {
+        "equipo": "Colombia",
+        "grupo": "B",
+        "partidosJugados": 4,
+        "partidosGanados": 3,
+        "partidosEmpatados": 0,
+        "partidosPerdidos": 1,
+        "golesAFavor": 7,
+        "golesEnContra": 4,
+        "diferenciaGoles": 3,
+        "puntos": 9
+    },
+    {
+        "equipo": "Venezuela",
+        "grupo": "B",
+        "partidosJugados": 4,
+        "partidosGanados": 1,
+        "partidosEmpatados": 1,
+        "partidosPerdidos": 2,
+        "golesAFavor": 6,
+        "golesEnContra": 8,
+        "diferenciaGoles": -2,
+        "puntos": 4
+    },
+    {
+        "equipo": "Uruguay",
+        "grupo": "B",
+        "partidosJugados": 4,
+        "partidosGanados": 3,
+        "partidosEmpatados": 1,
+        "partidosPerdidos": 0,
+        "golesAFavor": 7,
+        "golesEnContra": 3,
+        "diferenciaGoles": 4,
+        "puntos": 10
+    },
+    {
+        "equipo": "Chile",
+        "grupo": "B",
+        "partidosJugados": 4,
+        "partidosGanados": 1,
+        "partidosEmpatados": 2,
+        "partidosPerdidos": 1,
+        "golesAFavor": 6,
+        "golesEnContra": 5,
+        "diferenciaGoles": 1,
+        "puntos": 5
+    },
+    {
+        "equipo": "Paraguay",
+        "grupo": "B",
+        "partidosJugados": 4,
+        "partidosGanados": 0,
+        "partidosEmpatados": 0,
+        "partidosPerdidos": 4,
+        "golesAFavor": 1,
+        "golesEnContra": 7,
+        "diferenciaGoles": -6,
+        "puntos": 0
+    }
+]

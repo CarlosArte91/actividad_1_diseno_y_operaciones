@@ -1,0 +1,45 @@
+[
+    {
+        "nombre": "Juan Pérez",
+        "fechaNacimiento": "1980-05-15",
+        "nacionalidad": "Argentina",
+        "edad": 43,
+        "experienciaArbitral": 15
+    },
+    {
+        "nombre": "Maria Rodriguez",
+        "fechaNacimiento": "1985-08-20",
+        "nacionalidad": "Colombia",
+        "edad": 38,
+        "experienciaArbitral": 12
+    },
+    {
+        "nombre": "Wilmar Roldán",
+        "fechaNacimiento": "1980-01-24",
+        "nacionalidad": "Colombia",
+        "edad": 43,
+        "experienciaArbitral": 18,
+        "especialidad": "Árbitro principal"
+    },
+    {
+        "nombre": "Carlos Gutierrez",
+        "fechaNacimiento": "1982-03-10",
+        "nacionalidad": "Ecuador",
+        "edad": 41,
+        "experienciaArbitral": 14
+    },
+    {
+        "nombre": "Ana Martinez",
+        "fechaNacimiento": "1987-11-25",
+        "nacionalidad": "Chile",
+        "edad": 35,
+        "experienciaArbitral": 10
+    },
+    {
+        "nombre": "Luis Silva",
+        "fechaNacimiento": "1984-07-02",
+        "nacionalidad": "Perú",
+        "edad": 38,
+        "experienciaArbitral": 11
+    }
+]  

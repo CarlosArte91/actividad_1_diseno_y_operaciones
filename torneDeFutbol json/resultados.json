@@ -1,0 +1,74 @@
+[
+    {
+        "fase": "Fase de Grupos",
+        "equipoLocal": "Argentina",
+        "equipoVisitante": "Brasil",
+        "golesLocal": 2,
+        "golesVisitante": 1,
+        "goleadoresLocal": ["Lionel Messi", "Sergio Agüero"],
+        "goleadoresVisitante": ["Neymar Jr."]
+    },
+    {
+        "fase": "Fase de Grupos",
+        "equipoLocal": "Venezuela",
+        "equipoVisitante": "Chile",
+        "golesLocal": 2,
+        "golesVisitante": 2,
+        "goleadoresLocal": ["Salomón Rondón","Tomás Rincón"],
+        "goleadoresVisitante": ["Damián Pizarro","Arturo Vidal"]
+    },
+    {
+        "fase": "Cuartos de Final",
+        "equipoLocal": "Colombia",
+        "equipoVisitante": "Ecuador",
+        "golesLocal": 2,
+        "golesVisitante": 1,
+        "goleadoresLocal": ["Luis Díaz", "James Rodríguez"],
+        "goleadoresVisitante": ["Moisés Caicedo"]
+    },
+    {
+        "fase": "Cuartos de Final",
+        "equipoLocal": "Uruguay",
+        "equipoVisitante": "Perú",
+        "golesLocal": 3,
+        "golesVisitante": 1,
+        "goleadoresLocal": ["Luis Suárez", "Edinson Cavani"],
+        "goleadoresVisitante": ["Paolo Guerrero"]
+    },
+    {
+        "fase": "Semifinal",
+        "equipoLocal": "Uruguay",
+        "equipoVisitante": "Argentina",
+        "golesLocal": 1,
+        "golesVisitante": 2,
+        "goleadoresLocal" : ["Luis Suárez"],
+        "goleadoresVisitante": ["Lionel Messi", "Paulo Dybala", "Ángel Di María"]
+    },
+    {
+        "fase": "Semifinal",
+        "equipoLocal": "Colombia",
+        "equipoVisitante": "Brasil",
+        "golesLocal": 3,
+        "golesVisitante": 2,
+        "goleadoresLocal": ["Radamel Falcao", "Luis Díaz"],
+        "goleadoresVisitante": ["Neymar Jr.", "Vinícius Jr."]
+    },
+    {
+        "fase": "Tercer Puesto",
+        "equipoLocal": "Brasil",
+        "equipoVisitante": "Uruguay",
+        "golesLocal": 3,
+        "golesVisitante": 1,
+        "goleadoresLocal": ["Neymar Jr.", "Vinícius Jr.", "Roberto Firmino"],
+        "goleadoresVisitante": ["Edinson Cavani"]
+    },
+    {
+        "fase": "Final",
+        "equipoLocal": "Argentina",
+        "equipoVisitante": "Colombia",
+        "golesLocal": 0,
+        "golesVisitante": 1,
+        "goleadoresLocal": [],
+        "goleadoresVisitante": ["Luis Díaz"]
+    }    
+]

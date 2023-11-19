@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Fase de Grupos",
+        "fechas": {
+            "inicio": "2023-06-01",
+            "fin": "2023-06-14"
+        }
+    },
+    {
+        "nombre": "Cuartos de Final",
+        "fechas": {
+            "inicio": "2023-06-18",
+            "fin": "2023-06-24"
+        }
+    },
+    {
+        "nombre": "Semifinales",
+        "fechas": {
+            "inicio": "2023-06-28",
+            "fin": "2023-06-29"
+        }
+    },
+    {
+        "nombre": "Tercer puesto",
+        "fechas": {
+            "inicio": "2023-07-02",
+            "fin": "2023-07-02"
+        }
+    },
+    {
+        "nombre": "Final",
+        "fechas": {
+            "inicio": "2023-07-03",
+            "fin": "2023-07-03"
+        }
+    }
+]

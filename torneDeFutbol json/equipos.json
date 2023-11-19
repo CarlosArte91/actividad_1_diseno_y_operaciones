@@ -1,0 +1,428 @@
+[
+{
+    "nombre": "Argentina",
+    "pais": "Argentina",
+    "grupo": "A",
+    "entrenador": {
+      "nombre": "Lionel Scaloni",
+      "edad": 42
+    },
+    "jugadores": [
+      {
+        "nombre": "Lionel Messi",
+        "fechaNacimiento": "1987-06-24",
+        "nacionalidad": "Argentina",
+        "posicion": "Delantero",
+        "numero": 10,
+        "edad": 36,
+        "goles": 3,
+        "asistencias": 1,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Sergio Agüero",
+        "fechaNacimiento": "1988-06-02",
+        "nacionalidad": "Argentina",
+        "posicion": "Delantero",
+        "numero": 9,
+        "edad": 33,
+        "goles": 1,
+        "asistencias": 1,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Paulo Dybala",
+        "fechaNacimiento": "1993-11-15",
+        "nacionalidad": "Argentina",
+        "posicion": "Centrocampista",
+        "numero": 21,
+        "edad": 28,
+        "goles": 1,
+        "asistencias": 1,
+        "tarjetasAmarillas": 2,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Gonzalo Higuaín",
+        "fechaNacimiento": "1987-12-10",
+        "nacionalidad": "Argentina",
+        "posicion": "Delantero",
+        "numero": 19,
+        "edad": 35,
+        "goles": 0,
+        "asistencias": 0,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Ángel Di María",
+        "fechaNacimiento": "1988-02-14",
+        "nacionalidad": "Argentina",
+        "posicion": "Extremo",
+        "numero": 11,
+        "edad": 35,
+        "goles": 2,
+        "asistencias": 1,
+        "tarjetasAmarillas": 2,
+        "tarjetasRojas": 0
+      }
+    ]
+},
+{
+  "nombre": "Colombia",
+  "pais": "Colombia",
+  "grupo": "B",
+  "entrenador": {
+    "nombre": "Néstor Lorenzo",
+    "edad": 57
+  },
+  "jugadores": [
+    {
+      "nombre": "James Rodríguez",
+      "fechaNacimiento": "1991-07-12",
+      "nacionalidad": "Colombia",
+      "posicion": "Centrocampista",
+      "numero": 10,
+      "edad": 32,
+      "goles": 1,
+      "asistencias": 4,
+      "tarjetasAmarillas": 1,
+      "tarjetasRojas": 0
+    },
+    {
+      "nombre": "Radamel Falcao",
+      "fechaNacimiento": "1986-02-10",
+      "nacionalidad": "Colombia",
+      "posicion": "Delantero",
+      "numero": 9,
+      "edad": 36,
+      "goles": 2,
+      "asistencias": 1,
+      "tarjetasAmarillas": 1,
+      "tarjetasRojas": 0
+    },
+    {
+      "nombre": "Juan Cuadrado",
+      "fechaNacimiento": "1988-05-26",
+      "nacionalidad": "Colombia",
+      "posicion": "Extremo",
+      "numero": 11,
+      "edad": 34,
+      "goles": 1,
+      "asistencias": 2,
+      "tarjetasAmarillas": 2,
+      "tarjetasRojas": 0
+    },
+    {
+      "nombre": "Davinson Sánchez",
+      "fechaNacimiento": "1996-06-12",
+      "nacionalidad": "Colombia",
+      "posicion": "Defensa",
+      "numero": 23,
+      "edad": 27,
+      "goles": 0,
+      "asistencias": 0,
+      "tarjetasAmarillas": 2,
+      "tarjetasRojas": 0
+    },
+    {
+      "nombre": "Luis Díaz",
+      "fechaNacimiento": "1997-01-13",
+      "nacionalidad": "Colombia",
+      "posicion": "Extremo",
+      "numero": 7,
+      "edad": 26,
+      "goles": 4,
+      "asistencias": 1,
+      "tarjetasAmarillas": 0,
+      "tarjetasRojas": 0
+    }
+  ]
+},
+{
+    "nombre": "Brasil",
+    "pais": "Brasil",
+    "grupo": "A",
+    "entrenador": {
+      "nombre": "Tite",
+      "edad": 60
+    },
+    "jugadores": [
+      {
+        "nombre": "Neymar Jr.",
+        "fechaNacimiento": "1992-02-05",
+        "nacionalidad": "Brasil",
+        "posicion": "Delantero",
+        "numero": 10,
+        "edad": 31,
+        "goles": 6,
+        "asistencias": 2,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Roberto Firmino",
+        "fechaNacimiento": "1991-10-02",
+        "nacionalidad": "Brasil",
+        "posicion": "Delantero",
+        "numero": 9,
+        "edad": 32,
+        "goles": 1,
+        "asistencias": 3,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Casemiro",
+        "fechaNacimiento": "1992-02-23",
+        "nacionalidad": "Brasil",
+        "posicion": "Centrocampista",
+        "numero": 5,
+        "edad": 31,
+        "goles": 0,
+        "asistencias": 1,
+        "tarjetasAmarillas": 2,
+        "tarjetasRojas": 1
+      },
+      {
+        "nombre": "Marquinhos",
+        "fechaNacimiento": "1994-05-14",
+        "nacionalidad": "Brasil",
+        "posicion": "Defensa",
+        "numero": 4,
+        "edad": 27,
+        "goles": 0,
+        "asistencias": 2,
+        "tarjetasAmarillas": 2,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Vinícius Jr.",
+        "fechaNacimiento": "2000-07-12",
+        "nacionalidad": "Brasil",
+        "posicion": "Extremo",
+        "numero": 11,
+        "edad": 21,
+        "goles": 3,
+        "asistencias": 1,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      }
+    ]
+  },
+  {
+    "nombre": "Ecuador",
+    "pais": "Ecuador",
+    "grupo": "A",
+    "entrenador": {
+      "nombre": "Gustavo Alfaro",
+      "edad": 59
+    },
+    "jugadores": [
+      {
+        "nombre": "Enner Valencia",
+        "fechaNacimiento": "1989-11-04",
+        "nacionalidad": "Ecuador",
+        "posicion": "Delantero",
+        "numero": 13,
+        "edad": 34,
+        "goles": 1,
+        "asistencias": 1,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Ángel Mena",
+        "fechaNacimiento": "1988-01-21",
+        "nacionalidad": "Ecuador",
+        "posicion": "Extremo",
+        "numero": 10,
+        "edad": 35,
+        "goles": 0,
+        "asistencias": 2,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Moisés Caicedo",
+        "fechaNacimiento": "2001-11-02",
+        "nacionalidad": "Ecuador",
+        "posicion": "Centrocampista",
+        "numero": 15,
+        "edad": 22,
+        "goles": 1,
+        "asistencias": 0,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Robert Arboleda",
+        "fechaNacimiento": "1991-10-22",
+        "nacionalidad": "Ecuador",
+        "posicion": "Defensa",
+        "numero": 3,
+        "edad": 30,
+        "goles": 0,
+        "asistencias": 1,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Gonzalo Plata",
+        "fechaNacimiento": "2000-11-01",
+        "nacionalidad": "Ecuador",
+        "posicion": "Extremo",
+        "numero": 11,
+        "edad": 22,
+        "goles": 1,
+        "asistencias": 0,
+        "tarjetasAmarillas": 0,
+        "tarjetasRojas": 1
+      }
+    ]
+  },
+  {
+    "nombre": "Perú",
+    "pais": "Perú",
+    "grupo": "B",
+    "entrenador": {
+      "nombre": "Ricardo Gareca",
+      "edad": 64
+    },
+    "jugadores": [
+      {
+        "nombre": "Paolo Guerrero",
+        "fechaNacimiento": "1983-01-01",
+        "nacionalidad": "Perú",
+        "posicion": "Delantero",
+        "numero": 9,
+        "edad": 40,
+        "goles": 2,
+        "asistencias": 1,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Christian Cueva",
+        "fechaNacimiento": "1991-11-23",
+        "nacionalidad": "Perú",
+        "posicion": "Centrocampista",
+        "numero": 8,
+        "edad": 30,
+        "goles": 2,
+        "asistencias": 1,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Jefferson Farfán",
+        "fechaNacimiento": "1984-10-26",
+        "nacionalidad": "Perú",
+        "posicion": "Extremo",
+        "numero": 10,
+        "edad": 38,
+        "goles": 1,
+        "asistencias": 0,
+        "tarjetasAmarillas": 2,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Renato Tapia",
+        "fechaNacimiento": "1995-07-28",
+        "nacionalidad": "Perú",
+        "posicion": "Centrocampista",
+        "numero": 13,
+        "edad": 28,
+        "goles": 0,
+        "asistencias": 1,
+        "tarjetasAmarillas": 0,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Andy Polo",
+        "fechaNacimiento": "1994-09-29",
+        "nacionalidad": "Perú",
+        "posicion": "Extremo",
+        "numero": 19,
+        "edad": 29,
+        "goles": 0,
+        "asistencias": 1,
+        "tarjetasAmarillas": 0,
+        "tarjetasRojas": 0
+      }
+    ]
+  },
+  {
+    "nombre": "Venezuela",
+    "pais": "Venezuela",
+    "grupo": "A",
+    "entrenador": {
+      "nombre": "José Peseiro",
+      "edad": 61
+    },
+    "jugadores": [
+      {
+        "nombre": "Salomón Rondón",
+        "fechaNacimiento": "1989-09-16",
+        "nacionalidad": "Venezuela",
+        "posicion": "Delantero",
+        "numero": 23,
+        "edad": 34,
+        "goles": 1,
+        "asistencias": 1,
+        "tarjetasAmarillas": 0,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Tomás Rincón",
+        "fechaNacimiento": "1988-01-13",
+        "nacionalidad": "Venezuela",
+        "posicion": "Centrocampista",
+        "numero": 8,
+        "edad": 34,
+        "goles": 2,
+        "asistencias": 0,
+        "tarjetasAmarillas": 0,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Yangel Herrera",
+        "fechaNacimiento": "1998-01-07",
+        "nacionalidad": "Venezuela",
+        "posicion": "Centrocampista",
+        "numero": 16,
+        "edad": 25,
+        "goles": 0,
+        "asistencias": 1,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Darwin Machís",
+        "fechaNacimiento": "1993-02-07",
+        "nacionalidad": "Venezuela",
+        "posicion": "Extremo",
+        "numero": 11,
+        "edad": 30,
+        "goles": 1,
+        "asistencias": 2,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 0
+      },
+      {
+        "nombre": "Rolf Feltscher",
+        "fechaNacimiento": "1990-10-06",
+        "nacionalidad": "Venezuela",
+        "posicion": "Defensa",
+        "numero": 2,
+        "edad": 31,
+        "goles": 0,
+        "asistencias": 0,
+        "tarjetasAmarillas": 1,
+        "tarjetasRojas": 1
+      }
+    ]
+  }
+]
